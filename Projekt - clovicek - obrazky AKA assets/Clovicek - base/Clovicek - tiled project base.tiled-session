@@ -1,0 +1,123 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "base",
+        ".",
+        "water"
+    ],
+    "fileStates": {
+        "Clovicek - tilemap base.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 328.99999999999994,
+                "y": -72.33333333333337
+            }
+        },
+        "Clovicek - tilemap water.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 57.75,
+                "y": 26.75
+            }
+        },
+        "Clovicek - tileset base.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "Clovicek - tileset water.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "base/Clovicek - tilemap base dirt.tmx": {
+            "scale": 2.09,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 240.43062200956942,
+                "y": 30.382775119617236
+            }
+        },
+        "base/Clovicek - tilemap base sand.tmx": {
+            "scale": 5.573333333333332,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 90.16148325358853,
+                "y": 30.053827751196167
+            }
+        },
+        "base/Clovicek - tilemap base.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 279.5,
+                "y": -50.5
+            }
+        },
+        "base/Clovicek - tileset base.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "water/Clovicek - tilemap water A.tmx": {
+            "scale": 4,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 90.875,
+                "y": -84.125
+            }
+        },
+        "water/Clovicek - tilemap water B.tmx": {
+            "scale": 4,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 91.375,
+                "y": -22.375
+            }
+        },
+        "water/Clovicek - tilemap water.tmx": {
+            "scale": 4,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 90.625,
+                "y": 80.625
+            }
+        },
+        "water/Clovicek - tileset water.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        }
+    },
+    "last.imagePath": "C:/Users/kamil/Downloads/Otevrena informatika/5. semestr/IOS2/Clovicek - base/base",
+    "map.height": 1,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 60,
+    "map.tileWidth": 60,
+    "map.width": 3,
+    "openFiles": [
+    ],
+    "project": "Clovicek - tiled project base.tiled-project",
+    "recentFiles": [
+        "water/Clovicek - tilemap water A.tmx",
+        "base/Clovicek - tilemap base.tmx",
+        "base/Clovicek - tilemap base dirt.tmx",
+        "base/Clovicek - tilemap base sand.tmx",
+        "water/Clovicek - tilemap water B.tmx",
+        "base/Clovicek - tileset base.tsx",
+        "water/Clovicek - tileset water.tsx",
+        "water/Clovicek - tilemap water.tmx",
+        "Clovicek - tileset water.tsx",
+        "Clovicek - tilemap water.tmx",
+        "Clovicek - tileset base.tsx",
+        "Clovicek - tilemap base.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.type": 1
+}
